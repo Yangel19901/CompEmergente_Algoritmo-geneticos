@@ -1,0 +1,3 @@
+nombre,formula,variables,rango_min,rango_max,objetivo,categoria,resultados_optimo_entrada,resultados_optimo_salida
+Terreno ondulante ,20 + x - 10*cos(2*pi*x) + y - 10*cos(2*pi*y),"x, y","-10.0, -10.0","10.0, 10.0",maximizar,Sin Categoria,,
+Sinusoidal,sin(x)**2 / x,x,-10.0,10.0,maximizar,Sin Categoria,,
