@@ -138,7 +138,7 @@ def main():
                                     print("Nota: El algoritmo genético encontró un valor ligeramente diferente al óptimo 'conocido' recién establecido.")
                         except ValueError:
                             print("No se pudo comparar el resultado con el óptimo 'conocido' (la salida conocida no es un número válido).")
-                    # --- Fin de la comparación ---
+                    
 
                 else:
                     print("El algoritmo genético no pudo encontrar una solución óptima.")
