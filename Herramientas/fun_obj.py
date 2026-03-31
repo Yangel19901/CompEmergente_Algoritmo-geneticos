@@ -2,9 +2,6 @@ import csv
 import sympy
 import numpy as np 
 
-import csv
-import sympy
-import numpy as np # Necesario para sympy.lambdify en el backend 'numpy'
 
 def cargar_funciones_desde_csv(nombre_archivo_csv="fun_obj.csv"):
     
